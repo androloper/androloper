@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ramazan Baybörek</h1>
-<h3 align="center">A programmer that believes everything can be possible when you just start trying it.</h3>
+<h1 align="left">Hi 👋, I'm Ramazan Baybörek</h1>
+<h3 align="left">A programmer that believes everything can be possible when you just start trying it.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=androloper&label=Profile%20views&color=ff0000&style=plastic" alt="androloper" /> </p>
 
