@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **android, flutter, angular, ts and js**
 
-- 📫 How to reach me **im@ramazanbayborek.com**
+- 📫 You can reach me **im@ramazanbayborek.com**
 
-- ⚡ Fun fact **I love streetball, watching tv-series, reading books and listening musics.**
+- ⚡ **I love streetball, watching tv-series, reading books and listening musics.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
