@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at <a href="http://ramazanbayborek.com" target="blank">ramazanbayborek.com</a>
 
-- 💬 Ask me about **flutter, angular, android, typescript and javascript**
+- 💬 Ask me about **flutter, angular, javascript, typescript and android**
 
 - 📫 You can reach me **im@ramazanbayborek.com**
 
