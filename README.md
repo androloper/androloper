@@ -13,7 +13,7 @@
 ## 🌐  Connect with me:
 <table>
 <tr>
-<td valign="top"><a href="https:wa.me/905060526793?text=hello,%20im%20comin%20from%20your%20github%20profile." target="_blank">
+<td valign="top"><a href="https://wa.me/905060526793?text=hello,%20im%20comin%20from%20your%20github%20profile." target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/888aff31e1d26dd2a6acf6afebbc34970aeb0118/src/images/icons/Social/whatsapp.svg" alt="ramazanbayborek" height="50" width="50" /></a></td> 
 <td valign="top"><a href="https://instagram.com/unifortunately" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unifortunately" height="50" width="50" /></a></td>
